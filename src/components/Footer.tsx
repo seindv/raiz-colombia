@@ -5,7 +5,7 @@ export default function Footer() {
     Colección: ["Nueva temporada", "Accesorios", "Textiles", "Joyería", "Ediciones limitadas"],
     Marca: ["Nuestra historia", "Manifesto", "Artesanos", "Sostenibilidad", "Prensa"],
     Atelier: ["Personalización", "Pedidos corporativos", "Colaboraciones", "Cuidado de piezas"],
-    Contacto: ["Bogotá, Colombia", "hola@raiz.co", "+57 310 000 0000", "WhatsApp"],
+    Contacto: ["Bogotá, Colombia", "hola@aliguane.co", "+57 310 000 0000", "WhatsApp"],
   };
 
   return (
@@ -16,7 +16,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
             <div className="mb-6">
-              <p className="font-cinzel text-2xl text-[#F5EEE7] tracking-[0.2em] mb-1">Raíz</p>
+              <p className="font-cinzel text-2xl text-[#F5EEE7] tracking-[0.2em] mb-1">Ali Guane</p>
               <p className="font-cormorant text-[0.6rem] tracking-[0.3em] uppercase text-[#A65A3A]">
                 Colombia
               </p>
@@ -64,7 +64,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 pt-8">
           <p className="font-cormorant text-xs italic text-[#D8C3A5]/30">
-            © 2025 Raíz Colombia. Todos los derechos reservados.
+            © 2025 Ali Guane. Todos los derechos reservados.
           </p>
           <div className="flex gap-6">
             {["Privacidad", "Términos", "Cookies"].map((item) => (

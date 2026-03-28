@@ -5,7 +5,7 @@ import { useState } from "react";
 const testimonials = [
   {
     quote:
-      "Raíz me devolvió el orgullo de cargar algo que tiene historia. No es un objeto, es un argumento cultural.",
+      "Ali Guane me devolvió el orgullo de cargar algo que tiene historia. No es un objeto, es un argumento cultural.",
     name: "Valentina Ospina",
     role: "Directora Creativa, Bogotá",
   },
@@ -17,7 +17,7 @@ const testimonials = [
   },
   {
     quote:
-      "Lo que me conquista de Raíz es la honestidad. No venden nostalgia. Venden identidad con criterio.",
+      "Lo que me conquista de Ali Guane es la honestidad. No venden nostalgia. Venden identidad con criterio.",
     name: "Laura Echeverri",
     role: "Periodista Cultural, Cali",
   },

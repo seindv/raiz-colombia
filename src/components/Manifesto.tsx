@@ -23,7 +23,7 @@ export default function Manifesto() {
         <div className="grid md:grid-cols-2 gap-12 md:gap-20">
           <div className="reveal-left">
             <p className="body-editorial mb-6">
-              Raíz nace de un deseo profundo: demostrar que la identidad cultural no es
+              Ali Guane nace de un deseo profundo: demostrar que la identidad cultural no es
               un límite, sino la mayor fuente de innovación. Cada pieza que diseñamos
               es un diálogo entre el pasado que nos define y el futuro que construimos.
             </p>

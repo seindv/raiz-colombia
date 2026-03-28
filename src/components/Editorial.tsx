@@ -21,7 +21,7 @@ export default function Editorial() {
     },
     {
       category: "Comunidad",
-      title: "Las manos que hacen posible Raíz",
+      title: "Las manos que hacen posible Ali Guane",
       excerpt: "Retratos y conversaciones con los artesanos que colaboran con la marca.",
       img: "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=700&q=80&auto=format&fit=crop&crop=top",
       date: "Enero 2025",

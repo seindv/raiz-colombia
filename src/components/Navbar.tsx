@@ -28,7 +28,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className={`navbar-logo flex flex-col items-start transition-all duration-500 ${scrolled ? "!text-[#5C3A2E]" : ""}`}>
             <span className="font-cinzel text-xl md:text-2xl font-semibold tracking-[0.2em] uppercase leading-none">
-              Raíz
+              Ali Guane
             </span>
             <span
               className={`text-[0.5rem] tracking-[0.35em] uppercase font-cormorant transition-colors duration-500 ${
@@ -89,7 +89,7 @@ export default function Navbar() {
         }`}
       >
         <div className="flex justify-between items-center">
-          <span className="font-cinzel text-2xl tracking-[0.2em] text-[#F5EEE7]">Raíz</span>
+          <span className="font-cinzel text-2xl tracking-[0.2em] text-[#F5EEE7]">Ali Guane</span>
           <button
             onClick={() => setMenuOpen(false)}
             className="text-[#F5EEE7] text-2xl font-light p-2"

@@ -30,7 +30,7 @@ export default function FeaturedProduct() {
           >
             <img
               src="https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=1000&q=85&auto=format&fit=crop&crop=center"
-              alt="Pieza destacada Raíz"
+              alt="Pieza destacada Ali Guane"
               className="w-full h-full object-cover"
               loading="lazy"
             />

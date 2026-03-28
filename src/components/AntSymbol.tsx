@@ -14,7 +14,7 @@ export default function AntSymbol({ className = "", color = "#A65A3A", size = 48
       viewBox="0 0 100 100"
       fill="none"
       className={`animate-float ${className}`}
-      aria-label="Símbolo hormiga Raíz"
+      aria-label="Símbolo hormiga Ali Guane"
     >
       {/* Body segments */}
       <ellipse cx="50" cy="72" rx="12" ry="16" stroke={color} strokeWidth="1.5" fill="none" />

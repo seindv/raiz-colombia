@@ -62,7 +62,7 @@ export default function Newsletter() {
           <div className="reveal">
             <div className="h-px w-10 bg-[#C6A56B] mx-auto mb-4" />
             <p className="font-cormorant text-xl italic text-[#A65A3A]">
-              Bienvenida a la comunidad Raíz.
+              Bienvenida a la comunidad Ali Guane.
             </p>
             <p className="font-cinzel text-[0.6rem] tracking-[0.3em] uppercase text-[#5C3A2E]/50 mt-2">
               Recibirás noticias muy pronto.
